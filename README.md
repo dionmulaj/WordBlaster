@@ -5,5 +5,5 @@ WordBlaster is a tool built precisely to meet the needs of red teamers and offen
 
 <h3>Installation & Usage:</h3>
 1. git clone https://github.com/dionmulaj/WordBlaster.git<br>
-2. chmod +x WordBlaster.sh
-3. ./WordBlaster.sh
+2. chmod +x WordBlaster.sh<br>
+3. ./WordBlaster.sh<br>
